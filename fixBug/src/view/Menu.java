@@ -34,7 +34,7 @@ public class Menu {
         mainMenu.add("Displaying a hotel list ");
         mainMenu.add("Exit");
         while (true) {
-            System.out.println("=========== Menu ============");
+            System.out.println("=========== Menu Ohayo ============");
             int choice = getIntChoice(mainMenu);
             switch (choice) {
                 case 1:
